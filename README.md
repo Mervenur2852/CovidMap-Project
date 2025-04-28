@@ -5,17 +5,23 @@ In this project, we aimed to deliver the most up-to-date information on COVID-19
 
 # 🛠️ Technologies Used
 
-⚛️ React.js: A fast and user-focused interface was developed. <br/>
+⚛️ React <br/>
 
-🧠 Redux: Application data was managed in an organized and efficient way. <br/>
+🛤️ React-Router-Dom  <br/>
 
-🔗 Axios: COVID-19 data was fetched in real time from an up-to-date API. <br/>
+🧠 React-Redux <br/>
 
-🗺️ React-Simple-Maps: Interactive data visualization was provided on a world map. <br/>
+🛠️ Redux Toolkit <br/>
 
-📍 Leaflet.js: Cases, recoveries, and deaths were visualized in detail on the map. <br/>
+🎨 React-Icons <br/>
 
-🌎 Rest Countries API: Country information was retrieved and integrated with the map and data. <br/>
+💨 Tailwind CSS <br/>
+
+🗺️ React-Simple-Maps <br/>
+
+🔢 Millify <br/>
+
+🌐 Axios  <br/>
 
 # 📸 Screenshot
 
